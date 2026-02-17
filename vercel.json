@@ -1,1 +1,9 @@
-{ "redirects": [ { "source": "/(.*)", "destination": "https://blank-app-5xfjcuszck.streamlit.app/$1", "permanent": true } ] } 
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://blank-app-y5xfjcuszck.streamlit.app/$1",
+      "permanent": true
+    }
+  ]
+}
